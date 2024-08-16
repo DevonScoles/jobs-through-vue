@@ -1,6 +1,6 @@
 # Jobs-Through-Vue
 
-This is a mock job listing website that demonstrates the fundamentals of Vue such as:
+This is a mock job listing website that demonstrates the fundamentals of the Vue.js framework such as:
 -  v-if, v-else & v-else-if Directives
 -  v-for Directive & looping
 -  v-bind Directive
