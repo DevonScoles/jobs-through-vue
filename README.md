@@ -1,5 +1,6 @@
 # Jobs-Through-Vue
-![Screenshot of application](https://github.com/DevonScoles/jobs-through-vue/blob/main/vue-jobs-snapshot.png?raw=true)
+![Screenshot of application](https://github.com/DevonScoles/jobs-through-vue/blob/main/vue-jobs-snapshot.PNG?raw=true)
+
 This is a mock job listing website that demonstrates the fundamentals of the Vue.js framework such as:
 -  v-if, v-else & v-else-if Directives
 -  v-for Directive & looping
